@@ -158,8 +158,8 @@ export default function Home() {
             <div className="flex items-center space-x-4">
               <Shield className="h-12 w-12 text-emerald-400" />
               <div>
-                <h1 className="text-3xl font-bold">Cybersecurity Resource Hub</h1>
-                <p className="text-slate-300 mt-1">Department of Information Technology</p>
+                <h1 className="text-3xl font-bold">PNG Cybersecurity Resource Hub</h1>
+                <p className="text-slate-300 mt-1">Department of Information & Communication Technology</p>
                 <p className="text-emerald-400 font-medium">Papua New Guinea Government</p>
               </div>
             </div>
