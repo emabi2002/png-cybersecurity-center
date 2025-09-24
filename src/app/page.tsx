@@ -1006,7 +1006,7 @@ export default function Home() {
           <div className="flex items-center justify-between">
             <div>
               <p className="text-sm text-slate-300">
-                © 2025 Department of Information Technology, Papua New Guinea Government
+                © 2025 Department of Information & Communication Technology, Papua New Guinea Government
               </p>
               <p className="text-xs text-slate-400 mt-1">
                 For authorized personnel use only. Enhanced with search, authentication, news, and submission features.
