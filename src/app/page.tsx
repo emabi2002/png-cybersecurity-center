@@ -1,3 +1,5 @@
+"use client";
+
 import { Shield, Globe, Search, AlertTriangle, Lock, Book, Map, Wrench, Eye, Zap, User, Newspaper, Plus, LogOut, LogIn } from "lucide-react"
 import { useState, useEffect } from 'react'
 
